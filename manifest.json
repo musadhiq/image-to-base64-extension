@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Image to Base64 Converter",
+    "version": "1.0.0",
+    "description": "convert any PNG/JPG/JPEG images to base64 string",
+    "author": "musadhiq",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IMG to Base64 Converter"
+    },
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
